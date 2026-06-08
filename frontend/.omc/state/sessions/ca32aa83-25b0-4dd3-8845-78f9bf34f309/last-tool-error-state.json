@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"taskkill /F /PID 21308 /PID 3576 /PID 20624 /PID 42056 /PID 36408 /PID 44424 /PID 14552\",\"description\":\"Kill processes occupying ports 5173-5179\"}",
+  "error": "Exit code 1\n����: ��Ч����/ѡ�� - 'F:/'��\r\n���� \"TASKKILL /?\" ���˽��÷���",
+  "timestamp": "2026-06-08T18:41:22.393Z",
+  "retry_count": 1
+}

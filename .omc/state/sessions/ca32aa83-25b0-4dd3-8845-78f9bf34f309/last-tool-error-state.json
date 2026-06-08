@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"winget --version\",\"description\":\"Check if winget is available\"}",
+  "error": "Exit code 127\n/usr/bin/bash: line 1: winget: command not found",
+  "timestamp": "2026-06-08T18:24:14.446Z",
+  "retry_count": 1
+}
