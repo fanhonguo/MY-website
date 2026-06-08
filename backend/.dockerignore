@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# OMC state (not needed in container)
+.omc
+
+# Maven build output
+target/
+
+# Documentation
+*.md
+docs/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
