@@ -1,4 +1,4 @@
-const API_BASE_URL = '/api'
+const API_BASE_URL = 'https://api.fhgbase.com/api'
 
 export const api = {
   async register(email, password, username) {
